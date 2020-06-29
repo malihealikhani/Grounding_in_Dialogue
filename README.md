@@ -5,16 +5,16 @@ https://docs.google.com/presentation/d/11to5fJBltQuQ2E7ShM2XEIPKVjTUCOFgkWC7tXae
 
 # Outline
 * Part 1
- *Introduction 
- *Fundamental approaches to multimodal grounding 
- *Grounding in communication: science and models 
- *Multimodality in human-human conversation 
-*Part 2
- *Grounding with animated agents and robots 
- *Adapting grounding to modality and culture 
- *Exploiting language technology for grounding in multimodal contexts 
- *Learning multimodal grounding: visual dialogue and other datasets 
- *Applications, conclusions and future work 
+ * Introduction 
+ * Fundamental approaches to multimodal grounding 
+ * Grounding in communication: science and models 
+ * Multimodality in human-human conversation 
+* Part 2
+ * Grounding with animated agents and robots 
+ * Adapting grounding to modality and culture 
+ * Exploiting language technology for grounding in multimodal contexts 
+ * Learning multimodal grounding: visual dialogue and other datasets 
+ * Applications, conclusions and future work 
 
 
 
